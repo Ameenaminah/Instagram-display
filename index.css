@@ -1,0 +1,78 @@
+body {
+  text-align: center;
+  margin: 0;
+}
+.main-container {
+  width: 375px;
+  border: 2px solid whitesmoke;
+  margin: 20px auto;
+}
+header {
+  width: 375px;
+  height: 67px;
+  box-sizing: border-box;
+  margin: 0 auto;
+  padding: 20px;
+  background: #ffffff;
+  border-bottom: 1px solid #c6c6c6;
+}
+.container-one {
+  display: flex;
+  justify-content: space-between;
+}
+.instagram-logo {
+  width: 127px;
+  height: 33.06px;
+}
+.my-pix {
+  width: 34px;
+  border-radius: 100px;
+}
+main {
+  width: 375px;
+  background-color: whitesmoke;
+}
+.container {
+  margin-bottom: 20px;
+}
+.user-container {
+  width: 348px;
+  display: flex;
+  justify-content: left;
+  height: 34px;
+  margin-bottom: 25px;
+  padding-top: 20px;
+}
+.user-info {
+  text-align: left;
+}
+.name-el {
+  margin-top: 0;
+  margin-bottom: 0;
+  font-size: 20px;
+}
+.location-el {
+  margin-top: 0;
+  font-size: 14px;
+}
+.post-img {
+  height: 375px;
+  width: 375px;
+  margin-bottom: 20px;
+}
+.icon-container {
+  width: 104.34px;
+  height: 14.76px;
+  display: flex;
+  justify-content: space-between;
+}
+#icon-heart:hover {
+  background: red;
+}
+.post-image {
+  margin-left: 10px;
+  text-align: left;
+}
+span {
+  font-weight: bold;
+}
